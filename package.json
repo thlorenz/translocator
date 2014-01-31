@@ -1,5 +1,5 @@
 {
-  "name": "lorange",
+  "name": "translocator",
   "version": "0.0.0",
   "description": "Convert line-column locations to ranges and vice-versa.",
   "main": "index.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thlorenz/lorange.git"
+    "url": "git://github.com/thlorenz/translocator.git"
   },
-  "homepage": "https://github.com/thlorenz/lorange",
+  "homepage": "https://github.com/thlorenz/translocator",
   "dependencies": {},
   "devDependencies": {
     "tape": "~2.4.0"
@@ -23,7 +23,7 @@
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/thlorenz/lorange/blob/master/LICENSE"
+    "url": "https://github.com/thlorenz/translocator/blob/master/LICENSE"
   },
   "engine": {
     "node": ">=0.8"

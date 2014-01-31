@@ -1,5 +1,4 @@
-# lorange
-[![build status](https://secure.travis-ci.org/thlorenz/lorange.png)](http://travis-ci.org/thlorenz/lorange)
+# translocator [![build status](https://secure.travis-ci.org/thlorenz/translocator.png)](http://travis-ci.org/thlorenz/translocator)
 
 Convert line-column locations to ranges and vice-versa.
 
@@ -12,7 +11,7 @@ Convert line-column locations to ranges and vice-versa.
 Nix, Nada, Nichevo, Nothing --> go away!
 ## Installation
 
-    npm install lorange
+    npm install translocator
 
 ## API
 
