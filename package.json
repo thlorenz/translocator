@@ -1,6 +1,6 @@
 {
   "name": "translocator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert line-column locations to ranges and vice-versa.",
   "main": "index.js",
   "scripts": {
