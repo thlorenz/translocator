@@ -15,7 +15,7 @@
   "devDependencies": {
     "tape": "~2.4.0"
   },
-  "keywords": [],
+  "keywords": [ "range", "index", "location", "position", "convert", "translate", "line", "column" ],
   "author": {
     "name": "Thorsten Lorenz",
     "email": "thlorenz@gmx.de",
