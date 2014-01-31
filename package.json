@@ -1,0 +1,31 @@
+{
+  "name": "lorange",
+  "version": "0.0.0",
+  "description": "Convert line-column locations to ranges and vice-versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/lorange.git"
+  },
+  "homepage": "https://github.com/thlorenz/lorange",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.4.0"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/lorange/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=0.8"
+  }
+}
